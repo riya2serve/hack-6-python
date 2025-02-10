@@ -1,2 +1,1 @@
-# hack-6-python
-hack-the-planet session 6
+\This rep contains several jupyter notebooks
